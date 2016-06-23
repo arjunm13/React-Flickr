@@ -1,10 +1,10 @@
-Flickr Photo Search Application
+-#Flickr Photo Search Application
 
 This application takes a user input and searches Flickr for related images. CLicking on an image will enlarge it and clicking again will take you back to the results page
 
 open index.html to access application
 
-----To Set up dev enviornment and upadate app-----
+-#To Set up dev enviornment and upadate app-----
 
 1. Install node.js and dependencies.
 
