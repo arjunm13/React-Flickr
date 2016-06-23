@@ -1,5 +1,3 @@
-Avalible on https://mighty-coast-18264.herokuapp.com
-
 #Flickr Photo Search Application
 
 This application takes a user input and searches Flickr for related images. CLicking on an image will enlarge it and clicking again will take you back to the results page
